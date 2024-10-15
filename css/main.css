@@ -3258,3 +3258,42 @@ html.cl-loaded .home-content__main {
 }
 
 /*# sourceMappingURL=main.css.map */
+
+
+.text-image-row{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap:30px;
+
+
+  
+}
+
+.text-image-row img{
+  border-radius: 10px;
+  width: 600px;
+  max-width: 1950px;
+}
+
+.sub-title{
+  margin-top: -40px;
+}
+ .each-activity{
+  margin-bottom: 50px;
+ }
+
+.option-list{
+  margin-left: 20px;
+  margin-top: -30px;
+
+ }
+
+ .s-activity{
+  padding-bottom: 20rem;
+ }
+
+ .team-block{
+  width: 100%;
+  object-fit: cover;
+ }
