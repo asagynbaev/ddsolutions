@@ -3297,3 +3297,14 @@ html.cl-loaded .home-content__main {
   width: 100%;
   object-fit: cover;
  }
+
+
+ @media only screen and (max-width:920px){
+  .text-image-row{
+    flex-direction: column !important;
+  }
+
+  .text-image-row img{
+    width: 100%;
+  }
+ }
